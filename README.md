@@ -3,7 +3,7 @@
 A modern, visually engaging mockup website for selling mocktails and cocktails.  
 Built with **React**, **TailwindCSS**, and **GSAP** for smooth web animations and an immersive user experience.  
 
-![Thumbnail](../../public/images/Cover.jpg)
+![Thumbnail](public/images/Cover.jpg)
 
 ---
 
