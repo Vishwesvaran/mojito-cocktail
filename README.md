@@ -1,16 +1,43 @@
-# React + Vite
+# 🍹 Mocktail & Cocktail Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, visually engaging mockup website for selling mocktails and cocktails.  
+Built with **React**, **TailwindCSS**, and **GSAP** for smooth web animations and an immersive user experience.  
 
-Currently, two official plugins are available:
+![Thumbnail](./images/cover.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive and mobile-friendly design  
+- Smooth and interactive animations powered by **GSAP**  
+- Styled with **TailwindCSS** for clean and customizable UI  
+- Component-driven architecture with **React**  
+- Perfect for demonstrating modern web development practices  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+- **React** – Component-based UI development  
+- **TailwindCSS** – Utility-first styling  
+- **GSAP** – High-performance animations  
+- **JavaScript (ES6+)** – Core programming language  
+
+---
+
+## 📸 Demo Preview
+
+> If you have a live deployment (like Vercel or Netlify), add your link here:  
+[Live Demo](https://your-demo-link.com)
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/mocktail-cocktail-website.git
+cd mocktail-cocktail-website
+npm install
