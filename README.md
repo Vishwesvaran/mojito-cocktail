@@ -28,7 +28,7 @@ Built with **React**, **TailwindCSS**, and **GSAP** for smooth web animations an
 
 ## 📸 Demo Preview
 
-> [Live Demo](neon-cocktail.vercel.app)
+> [Live Demo](https://neon-cocktail.vercel.app)
 
 ---
 
