@@ -28,8 +28,7 @@ Built with **React**, **TailwindCSS**, and **GSAP** for smooth web animations an
 
 ## 📸 Demo Preview
 
-> If you have a live deployment (like Vercel or Netlify), add your link here:  
-[Live Demo](https://your-demo-link.com)
+> [Live Demo](neon-cocktail.vercel.app)
 
 ---
 
@@ -41,3 +40,9 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/mocktail-cocktail-website.git
 cd mocktail-cocktail-website
 npm install
+```
+
+```bash
+npm start
+```
+
